@@ -1,0 +1,528 @@
+{
+  "countries": [
+    {
+      "name": "Brasil",
+      "language": "pt-BR",
+      "flagEmoji": "🇧🇷",
+      "holidays": [
+    {
+      "date": 0,
+      "name": "Confraternização Universal",
+      "isHoliday": 1
+    },
+    {
+      "date": 432000,
+      "name": "Dia de Reis",
+      "isHoliday": 0
+    },
+    {
+      "date": 2332800,
+      "name": "Dia do Funcionário Público Estadual",
+      "isHoliday": 0
+    },
+    {
+      "date": 4665600,
+      "name": "Promulgação da Primeira Constituição Republicana",
+      "isHoliday": 0
+    },
+    {
+      "date": 5702400,
+      "name": "Dia Internacional da Mulher",
+      "isHoliday": 0
+    },
+    {
+      "date": 6220800,
+      "name": "Dia Nacional da Poesia",
+      "isHoliday": 0
+    },
+    {
+      "date": 6652800,
+      "name": "Dia de São José",
+      "isHoliday": 0
+    },
+    {
+      "date": 6825600,
+      "name": "Início do Outono",
+      "isHoliday": 0
+    },
+    {
+      "date": 6825600,
+      "name": "Dia Internacional contra a Discriminação Racial",
+      "isHoliday": 0
+    },
+    {
+      "date": 6912000,
+      "name": "Dia Mundial da Água",
+      "isHoliday": 0
+    },
+    {
+      "date": 8294400,
+      "name": "Dia Mundial da Saúde",
+      "isHoliday": 0
+    },
+    {
+      "date": 9331200,
+      "name": "Dia do Índio",
+      "isHoliday": 0
+    },
+    {
+      "date": 9504000,
+      "name": "Tiradentes",
+      "isHoliday": 1
+    },
+    {
+      "date": 9590400,
+      "name": "Descobrimento do Brasil",
+      "isHoliday": 0
+    },
+    {
+      "date": 9676800,
+      "name": "Dia Mundial do Livro",
+      "isHoliday": 0
+    },
+    {
+      "date": 10368000,
+      "name": "Dia do Trabalho",
+      "isHoliday": 1
+    },
+    {
+      "date": 11404800,
+      "name": "Abolição da Escravatura",
+      "isHoliday": 0
+    },
+    {
+      "date": 11836800,
+      "name": "Dia Nacional de Combate ao Abuso Sexual de Crianças e Adolescentes",
+      "isHoliday": 0
+    },
+    {
+      "date": 13392000,
+      "name": "Dia Mundial do Meio Ambiente",
+      "isHoliday": 0
+    },
+    {
+      "date": 13996800,
+      "name": "Dia dos Namorados",
+      "isHoliday": 0
+    },
+    {
+      "date": 14083200,
+      "name": "Dia de Santo Antônio",
+      "isHoliday": 0
+    },
+    {
+      "date": 14774400,
+      "name": "Início do Inverno",
+      "isHoliday": 0
+    },
+    {
+      "date": 15033600,
+      "name": "Dia de São João",
+      "isHoliday": 0
+    },
+    {
+      "date": 15465600,
+      "name": "Dia de São Pedro e São Paulo",
+      "isHoliday": 0
+    },
+    {
+      "date": 15724800,
+      "name": "Dia do Bombeiro",
+      "isHoliday": 0
+    },
+    {
+      "date": 17280000,
+      "name": "Dia do Amigo e Internacional da Amizade",
+      "isHoliday": 0
+    },
+    {
+      "date": 17712000,
+      "name": "Dia do Motorista",
+      "isHoliday": 0
+    },
+    {
+      "date": 19094400,
+      "name": "Dia do Estudante",
+      "isHoliday": 0
+    },
+    {
+      "date": 19440000,
+      "name": "Dia da Informática",
+      "isHoliday": 0
+    },
+    {
+      "date": 20044800,
+      "name": "Dia do Folclore",
+      "isHoliday": 0
+    },
+    {
+      "date": 20304000,
+      "name": "Dia do Soldado",
+      "isHoliday": 0
+    },
+    {
+      "date": 21513600,
+      "name": "Independência do Brasil",
+      "isHoliday": 1
+    },
+    {
+      "date": 22723200,
+      "name": "Dia da Árvore",
+      "isHoliday": 0
+    },
+    {
+      "date": 22809600,
+      "name": "Início da Primavera",
+      "isHoliday": 0
+    },
+    {
+      "date": 23500800,
+      "name": "Dia da Secretária",
+      "isHoliday": 0
+    },
+    {
+      "date": 24624000,
+      "name": "Nossa Senhora Aparecida",
+      "isHoliday": 1
+    },
+    {
+      "date": 24624000,
+      "name": "Dia das Crianças",
+      "isHoliday": 0
+    },
+    {
+      "date": 24883200,
+      "name": "Dia do Professor",
+      "isHoliday": 0
+    },
+    {
+      "date": 26006400,
+      "name": "Dia do Servidor Público",
+      "isHoliday": 2
+    },
+    {
+      "date": 26611200,
+      "name": "Dia de Finados",
+      "isHoliday": 1
+    },
+    {
+      "date": 27734400,
+      "name": "Proclamação da República",
+      "isHoliday": 1
+    },
+    {
+      "date": 28080000,
+      "name": "Dia da Bandeira",
+      "isHoliday": 0
+    },
+    {
+      "date": 28166400,
+      "name": "Dia Nacional da Consciência Negra",
+      "isHoliday": 0
+    },
+    {
+      "date": 28598400,
+      "name": "Dia Nacional do Doador de Sangue",
+      "isHoliday": 0
+    },
+    {
+      "date": 29894400,
+      "name": "Dia da Justiça",
+      "isHoliday": 2
+    },
+    {
+      "date": 30067200,
+      "name": "Início do Verão",
+      "isHoliday": 0
+    },
+    {
+      "date": 30326400,
+      "name": "Véspera de Natal",
+      "isHoliday": 2
+    },
+    {
+      "date": 30412800,
+      "name": "Natal",
+      "isHoliday": 1
+    },
+    {
+      "date": 30931200,
+      "name": "Véspera de Ano Novo",
+      "isHoliday": 2
+    }
+  ],
+  "mobile": {
+    "2025": [
+      {
+        "date": 1741305600,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1741392000,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1745299200,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1745472000,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1750032000,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2026": [
+      {
+        "date": 1771560000,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1771646400,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1775980800,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1776153600,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1780713600,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2027": [
+      {
+        "date": 1802232000,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1802318400,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1806652800,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1806825600,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1811385600,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2028": [
+      {
+        "date": 1834704000,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1834790400,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1839171200,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1839344000,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1843904000,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2029": [
+      {
+        "date": 1865203200,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1865289600,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1869196800,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1869369600,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1873929600,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2030": [
+      {
+        "date": 1896912000,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1896998400,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1900905600,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1901078400,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1905638400,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2031": [
+      {
+        "date": 1927411200,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1927497600,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1931404800,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1931577600,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1936137600,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2032": [
+      {
+        "date": 1959033600,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1959120000,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1963368000,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1963540800,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1968100800,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2033": [
+      {
+        "date": 1989446400,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 1989532800,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 1993440000,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1993612800,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 1998172800,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ],
+    "2034": [
+      {
+        "date": 2020636800,
+        "name": "Carnaval (Terça-feira)",
+        "isHoliday": 2
+      },
+      {
+        "date": 2020723200,
+        "name": "Quarta-feira de Cinzas",
+        "isHoliday": 2
+      },
+      {
+        "date": 2024457600,
+        "name": "Sexta-feira Santa",
+        "isHoliday": 1
+      },
+      {
+        "date": 2024630400,
+        "name": "Páscoa",
+        "isHoliday": 1
+      },
+      {
+        "date": 2029190400,
+        "name": "Corpus Christi",
+        "isHoliday": 2
+      }
+    ]
+  }
+    }
+  ]
+}
